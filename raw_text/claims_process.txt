@@ -1,0 +1,19 @@
+Claims Submission and Processing Guide
+1. Submit a Claim
+Members should submit claims within 90 days of receiving medical services.
+2. Required Information
+Each claim must include:
+- Member ID
+- Plan ID
+- Provider information
+- Date of service
+- Procedure
+- Claim amount
+3. Claim Status
+Pending: The claim is still being reviewed.
+Approved: The claim has been approved for payment.
+Denied: The claim has been rejected.
+4. Processing Time
+Claims are normally processed within 14 business days.
+5. Appeals
+Members may appeal a denied claim within 30 days of receiving the denial notice.

@@ -1,0 +1,82 @@
+Health insurance terms you should know
+Health care terms, medical bills, and forms can be hard to understand. Here are some common health care terms, and what they mean.
+Download this page as a PDF
+Allowed Amount
+This is the maximum payment the plan will pay for a covered health care service.  May also be called “eligible expense,” “payment allowance,” or “negotiated rate.”
+For example, if you get services during an office visit from an in-network provider and your health plan’s allowed amount for an office visit is $100, you’ll pay $100 for that visit if you haven’t met your deductible, and the visit is subject to the deductible. If you’ve met your deductible, you’ll pay your coinsurance or copayment amount instead, if applicable (see coinsurance, copayment, and deductible).
+Under certain circumstances, if your provider is out-of-network and charges more than the health plan’s allowed amount, you may have to pay the difference (see “balance billing”).
+Balance Billing
+When a provider bills you for the balance remaining on the bill that your plan doesn’t cover. This amount is the difference between the actual billed amount and the allowed amount.
+For example, if the provider’s charge is $200 and the allowed amount is $110, the provider may bill you for the remaining $90. This happens most often when you see an out-of-network provider (non-preferred provider). A network provider (preferred provider) may not balance bill you for covered services.
+Coinsurance
+Your share of the costs of a covered health care service, calculated as a percent (for example, 20%) of the allowed amount for the service. You pay the coinsurance plus any deductibles you owe.
+For example, if your health insurance plan’s allowed amount for an office visit is $100 and your coinsurance is 20%:
+If you’ve paid your deductible: you pay 20% of $100, or $20. The insurance company pays the rest.
+If you haven’t paid your deductible yet: you pay the full allowed amount, $100 (or the remaining balance until you have paid your yearly deductible, whichever is less).
+Complaint
+Healthcare providers, emergency facilities, and insurance plans must follow rules that protect consumers from surprise (unexpected out-of-network) medical bills. If you believe your provider, emergency facility, or health plan didn’t follow the rules that protect consumers, you can
+submit a complaint
+to the No Surprises Help Desk at 1-800-985-3059. You may need to send supporting documentation like medical bills and your Explanation of Benefits.
+Copayment
+A fixed amount (for example, $15) you pay for a covered health care service, usually when you receive the service (sometimes called “copay”). The amount can vary by the type of covered health care service.
+For example, your health plan’s allowable cost for a doctor’s office visit is $100. Your copayment for a doctor visit is $20:
+If you’ve paid your deductible, you pay $20, usually at the time of the visit.
+If you haven’t paid your deductible, you pay $100, the full allowed amount for that visit (or the remaining balance until you have paid your annual deductible, whichever is less).
+Cost Sharing
+This is your share of costs for services that a plan covers that you must pay out of your own pocket (sometimes called “out-of-pocket costs”). Some examples of cost sharing are copayments, deductibles, and coinsurance. Family cost sharing is the share of cost for deductibles and out-of-pocket costs you and your spouse and/or child(ren) must pay out of your own pocket. Other costs, including your premiums, penalties you may have to pay, or the cost of care a plan doesn’t cover usually aren’t considered cost sharing.
+Deductible
+An amount you could owe during a coverage period (usually one year) for covered health care services before your plan begins to pay. An overall deductible applies to all or almost all covered items and services. A plan with an overall deductible may also have separate deductibles that apply to specific services or groups of services. A plan may also have only separate deductibles.
+For example, if your deductible is $1,000, your plan won’t pay anything until you’ve met your $1,000 deductible for covered healthcare services subject to the deductible.
+Dispute
+If you don’t have health insurance or don’t plan to use your insurance to pay for your care, you may be able to use the
+patient-provider dispute resolution process
+if you disagree with your medical bill. In this process, you can ask an independent third party to review your case. The third party, called a dispute resolution entity, will review the good faith estimate, your bill, and information from your health care provider or facility to decide if you should pay the amount on your good faith estimate, the billed charge, or a different amount. During the patient-provider dispute resolution process, you may still negotiate your bill with your provider or facility.
+Explanation of Benefits (EOB)
+This is a summary from your health plan of the total charges for the health care services you received and how much you and your health plan will have to pay. This could be a paper copy that’s mailed to you or an electronic statement. This is not a bill.
+Learn more about the explanation of benefits
+.
+Good Faith Estimate (GFE)
+An estimate from a health care provider or facility for the expected costs of items or services. If you’re uninsured or not using your insurance, the provider or facility generally must give you a GFE before you get a health care service if you ask for one or if you schedule an appointment at least 3 days before you get a health care service. In certain circumstances, a provider that isn’t in your plan’s network must also give you a GFE as part of its notice and consent to charge you more than your plan’s in-network cost sharing amount.
+Learn more about good faith estimates.
+In-network Providers
+Providers or facilities that have a contract with your health plan to provide services for plan members at certain costs. Generally, if you get care with an in-network provider or facility, it will cost you less than if you get care with an out-of-network provider or facility.
+Insured
+Someone with health insurance (this can include people with insurance through their employer or health insurance they bought through the Health Insurance Marketplace®, directly from an insurance company or through an insurance agent or broker, Medicare, Medicaid, or TRICARE).
+No Surprises Act
+A federal law that provides protections against getting surprise (unexpected) medical bills for out-of-network emergency room services, some out-of-network non-emergency services related to a patient visit to an in-network facility, and out-of-network air ambulance services.
+Notice and Consent Form
+A form you may get from out-of-network providers or facilities that tell you about your rights and protections against surprise (unexpected out-of-network) medical bills and that gives you the option to waive those rights. If you sign this form, you agree to give up rights that protect you from balance billing and you may be charged more for your medical care. This form is also known as a waiver. This type of notice and consent form is separate from other medical consent forms that a provider or facility may ask you to sign before treating you.
+Learn more about notice and consent forms
+.
+Out-of-network Provider
+A provider who doesn’t have a contract with your plan to provide services.
+If your plan covers out-of-network services, you’ll usually pay more to see an out-of-network provider than a preferred provider. Your policy will explain what those costs may be. This may also be called “nonpreferred provider” or “non-participating provider.”
+Out-of-pocket Limit
+The most you could pay during a coverage period (usually one year) for your share of the costs of covered services. After you meet this limit the plan will usually pay 100% of the allowed amount. This limit helps you plan for health care costs. This limit never includes your premium, balance billed charges or health care your plan doesn’t cover. Some plans don’t count all of your copayments, deductibles, coinsurance payments, out-of-network payments, or other expenses toward this limit.
+Preferred Provider
+A provider who has a contract with your health insurer or plan who has agreed to provide services to members of a plan. You’ll pay less if you see a provider in the network. Also called “preferred provider” or “participating provider.”
+Provider
+An individual or facility that provides health care services. Some examples of a provider include a doctor, nurse, chiropractor, physician assistant, hospital, surgical center, skilled nursing facility, and rehabilitation center. The plan may require the provider to be licensed, certified, or accredited as required by state law.
+Self-pay
+When someone who has health insurance chooses to pay their health care costs out of pocket without using health insurance.
+Surprise Bill
+An unexpected balance bill for certain types of out-of-network costs your insurance didn’t cover.
+Uninsured
+Someone without health care coverage.
+We’re here to help
+Contact the No Surprises Help Desk for help in over 350 languages and for information in a format that’s accessible to you. You can also ask a question online using our complaints form.
+Get help in
+Español
+,
+Français
+,
+عربي
+,
+русский
+,
+नेपाली
+, and 350 other languages:
+1-800-985-3059
+Get help
+Page Last Modified:
+11/05/2024 03:38 PM

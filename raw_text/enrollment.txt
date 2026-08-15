@@ -1,0 +1,25 @@
+HEALTH COVERAGE ENROLLMENT FORM.
+
+‘Member Information
+‘Member ID: M1004
+‘Name: Alex Morgan
+Date of Birth: 05/12/1998
+
+Plan Selection:
+(Gold PPO
+@ Silver HMO
+
+Bronze HMO
+
+Coverage Effective Date: 01/01/2026
+
+Contact information
+
+Phone: 555-0100
+
+Email: alex@example.com
+
+| confirm that the information provided above is accurate.
+
+Signature: Alex Morgan
+Date: 12/15/2025
